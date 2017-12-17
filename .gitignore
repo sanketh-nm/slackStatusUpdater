@@ -1,0 +1,6 @@
+node_modules/
+.credentials/
+.*
+!/.gitignore
+*.json
+test.js
